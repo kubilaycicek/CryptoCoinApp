@@ -2,6 +2,7 @@
 
 Web Application for Coinranking API
 ## Using Tools & Technologies
+* Java 11.0.6
 * Spring Boot
 * Thymeleaf
 * Lombok
